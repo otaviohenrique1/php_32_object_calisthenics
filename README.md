@@ -10,5 +10,6 @@ Projeto do curso "Object Calisthenics exercitando a Orientação a Objetos" da A
 
 - composer dumpautoload
 - composer install
+- composer update
 - php -S localhost:8080
 - php -S localhost:8080 -t public/
